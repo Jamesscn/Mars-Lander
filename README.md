@@ -24,7 +24,7 @@ You can choose to watch the simulation just like on the CodinGame website, howev
 
 The original puzzles are really cool, you can find them at the following links:
 
-[Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)
-[Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2)
-[Episode 3](https://www.codingame.com/training/expert/mars-lander-episode-3)
-[Optimization](https://www.codingame.com/multiplayer/optimization/mars-lander)
+- [Episode 1](https://www.codingame.com/training/easy/mars-lander-episode-1)
+- [Episode 2](https://www.codingame.com/training/medium/mars-lander-episode-2)
+- [Episode 3](https://www.codingame.com/training/expert/mars-lander-episode-3)
+- [Optimization](https://www.codingame.com/multiplayer/optimization/mars-lander)
